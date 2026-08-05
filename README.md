@@ -23,6 +23,20 @@
 </div>
 
 ---
+## 🖼️ Project Preview
+
+<div align="center">
+
+<img src="1.png" alt="AI Evolution Racing Lab - Live Racing Simulation" width="48%" />
+
+<img src="2.png" alt="AI Evolution Racing Lab - AI Analytics Dashboard" width="48%" />
+
+<br><br>
+
+*Live AI Racing Simulation*   •   *Evolution Analytics & Explainable AI*
+
+</div>
+
 
 ## 🎥 Project Concept
 
